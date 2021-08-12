@@ -24,7 +24,7 @@ with proxy authentication
 ```
 python proxy_check.py -p username:password@ip:port
 ```
-
+<br/>
 **`NOTE`** - **`Message me to get Original Code`**
 
 **`Buy Me a Coffee`**
