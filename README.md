@@ -1,7 +1,7 @@
-# proxy-check
+# Proxy Checker
 Python script to check a proxy is working or not
 
-Note - Runs on **`python3`**
+Note - Runs on **`python3`** and works with cmd line argument
 
 ### Install Dependencies
 - requests
